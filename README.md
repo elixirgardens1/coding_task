@@ -2,7 +2,7 @@
 
 \* ***All code should be commented where appropriate*** *
 
-### PART 1: Create a form (PHP, HTML, CSS) to edit an SQLite database table (schema & data below).
+### PART 1: Create a form (PHP, HTML, CSS) to edit an SQLite database table ([schema & data](#database-table-schema--data) below).
 
 ![Image of form](imgs/add_del_keyphrase.png)
 
